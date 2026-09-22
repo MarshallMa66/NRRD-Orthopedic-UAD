@@ -62,10 +62,6 @@ During training:
 
 During inference, stochastic sampling and PGLD are disabled. Anomaly scores are obtained from multi-scale Teacher–Student feature discrepancies.
 
-<p align="center">
-  <img src="assets/NRRD_method.png" width="90%">
-</p>
-
 ## Code Availability
 
 **The source code and complete implementation will be released upon acceptance of the manuscript.**
